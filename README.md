@@ -86,6 +86,16 @@ This is another topic (or collection of topics) I feel like I have a lot to writ
 
 *Undesign* is unwritten.
 
+## [Valley of Lost Careers](https://github.com/stuartpb/valley-of-lost-careers)
+
+A series of short stories extrapolating from various online artifacts to describe the likely misadventures that would have led up to them.
+
+These are sort of like [The Daily WTF's Feature Articles](http://thedailywtf.com/series/feature-articles), but without the pretense of being first-person accounts of things that actually happened. Instead, these stories are explicitly fabrications inspired by [working backwards from a few telling details](http://m.achewood.com/index.php?date=11262008).
+
+### Progress
+
+I've proposed a few scenarios in this vein in Slack, but I've yet to actually write any of them up.
+
 ## [Primer Prime](https://github.com/stuartpb/primerprime)
 
 This is, essentially, *the* history of computing that I want to write: one that covers all the little quirks that led to the world you *actually have to deal with* to work in technology today (the answers to most questions people have being "because that's what Ken Thompson needed to write Unix on his computer at Bell Labs in the seventies").
