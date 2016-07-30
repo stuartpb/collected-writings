@@ -10,13 +10,13 @@ A list of unfinished projects (not including writing projects, which are listed 
 
 [Incomplete](https://github.com/stuartpb/help-wanted/issues/1), though the selection that's covered so far is a pretty fair sampling (probably the projects I'd like most to share, that I've also put some effort toward).
 
-## [specs-laws](https://github.com/stuartpb/specs-laws)
+## [github.com/stuartpb/meditations](https://github.com/stuartpb/meditations)
 
-A rationale for designing and laying out specifications like standards and proposals. It's also kind of leaky, and covers more general design principles that are at times only tangentially related to how things could be specced: as described in its introduction, this is semi-intentional.
+Assorted quips and mini-essays on various topics relating to best practices etc. Originally assembled as a set of guidelines on writing specifications and standards, but pivoted into a collection of miscellaneous musings on general behavioral patterns.
 
 ### Progress
 
-There's a couple pages, but they're not particularly coherent. Ideally, I'd spend something like a page on everything that there's a sentence for right now.
+I've set this up, but I'm not writing to it on a regular basis yet.
 
 ## Miscellaneous Assorted Specifications and Proposals
 
