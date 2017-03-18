@@ -36,6 +36,8 @@ Of all the proposals I've come up with, this is probably the one I want to see f
 
 A proposal to make adding icons to an HTML page a *lot* less stupid than it is right now, by introducing rules for *actually scaling* the thing instead of demanding a thousand different rendered sizes (and maybe even going as far as letting sites specify variants to fit into different aesthetics!)
 
+After talking with Nolan Lawson, I've been thinking I'd rewrite this to put manifest.json at the fore instead.
+
 ### [CSS Plaintext Conversion](https://github.com/stuartpb/css-plaintext)
 
 A proposal for some new CSS properties for defining how to present / convert HTML to plaintext, as well as some DOM methods to utilize them.
@@ -86,6 +88,14 @@ This is another topic (or collection of topics) I feel like I have a lot to writ
 
 *Undesign* is unwritten.
 
+## [TV Spec Scripts](https://github.com/stuartpb/tv-specscripts)
+
+So, the other day in Slack, I made this joke about how this metaphor I just described would work well as a gag on Silicon Valley, and then Dan Hiester started talking about how that's how Ronald D. Moore got started as a writer for *Star Trek: The Next Generation*, and I've kind of been saving up bits and pieces of spec scripts for years under the assumption that nobody'd want to read them, and so...
+
+### Progress
+
+I'm looking to gether those bits and pieces into something in a repo now.
+
 ## [Valley of Lost Careers](https://github.com/stuartpb/valley-of-lost-careers)
 
 A series of short stories extrapolating from various online artifacts to describe the likely misadventures that would have led up to them.
@@ -132,13 +142,21 @@ A guide to using CouchDB (and other compatible systems like PouchDB) that skips 
 
 There's actually a few pages written toward this, enough to accomplish the mission statement (though more work on stuff like examples and techniques wouldn't hurt). I think I actually had somebody acknowledge that I wrote this via Twitter at one point, which is quite the milestone for me.
 
+## [Guillibot](https://github.com/stuartpb/gullibot)
+
+The rules to a story game about a robot that believes everything it hears, where each player takes turns "evaluating" the Laws of the Universe the robot has collected, similar to *[Everyone Is John](http://jesterraiin.dropmark.com/167650/2976489)*, or the brainlike organ that operates Donald Trump.
+
+### Progress
+
+I have the general concept and gags that the game revolves around settled, but I haven't really stitched them together into a compelling set of mechanics - and I haven't committed or pushed *anything* yet.
+
 ## [The Chatroom of Requirement](https://github.com/stuartpb/chatroom-of-requirement)
 
 This was originally going to be an article on AirPair's blog thing - I was writing it for a competition they were doing. It describes how to implement a pretty-dang-simple realtime chat room (with no user accounts... but persistence!) using Node and RethinkDB.
 
 ### Progress
 
-I didn't get it finished in time for the end of the competition, IIRC (which is why it's not available via AirPair), due to mandated editing requirements that I couldn't meet or something like that (like I had to show it to fifteen other people or something first), but the article is essentially complete, as far as I remember. (I think the layout didn't meet AirPair's manual of style or something, and I was too tuckered out to revise it.)
+I didn't get it finished in time for the end of the competition, IIRC (which is why it's not available via AirPair), due to mandated editing requirements that I couldn't meet or something like that (like I had to show it to fifteen other people or something first), but the article is essentially complete, as far as I remember. (I think the layout didn't meet AirPair's manual of style or some such bullshit, and I was too tuckered out to revise it myself.)
 
 ## [If I Ran TF2](https://github.com/stuartpb/if-i-ran-tf2)
 
@@ -155,6 +173,40 @@ A less-subjective approach to agile development's "t-shirt sizing", but less pro
 ### Progress
 
 Seeing as how I pretty much just described everything there is to the idea, I haven't really found the energy to flesh this out into even a blog-post-length amount of content. What this would need would be some case studies, and I've only used this in [the issue labels for Tabalanche](https://github.com/tabalanche/tabalanche-extension/labels), with myself, so I'm not really qualified to speak to that.
+
+## [Guidelines for Human-Oriented Asset Retrieval and Deposition](https://github.com/stuartpb/hoard-guidelines)
+
+Basically just a writeup of the system of bins, labels, and shelves I use to store stuff in my apartment, what procedures I follow to keep it operational, how it's designed, the rationale behind the decisions of it, things like that.
+
+### Progress
+
+I've written nothing on the subject (the biggest material contribution so far has been that title). Jeez, you'd think I could at least commit the label templates.
+
+## [petlogs](https://github.com/stuartpb/petlogs)
+
+Journals of the customizations I've made to every persistent machine I use, so I can track down what changes might have screwed something else up, and so I can selectively re-make those changes if I have to re-roll the system.
+
+### Progress
+
+I haven't even *created the repo* yet - I've done a bunch of these in the form of gists, but I haven't merged them into a single repository yet.
+
+## [opws-testaccounts](https://github.com/stuartpb/opws-testaccounts)
+
+Logs of what I've done when testing account systems of a site for the [OPWS](https://github.com/opws).
+
+### Progress
+
+Ironically, there *is* stuff in here, even though it's pretty much useless.
+
+## [stuartpb-exit-codes](https://github.com/stuartpb/stuartpb-exit-codes)
+
+Documentation for the standard reasons I'd exit a thread (read: conversation).
+
+You know that thing where someone's just being incredibly tedious and awful, so you just want to walk away? This is for that, except the idea is that you can drop a hyperlink to help them better understand *why* they're being tedious, and what they could do to *not* be tedious in the future.
+
+### Progress
+
+Honestly, as useful as having these in a single place would be, writing them - and then *citing* them - makes me feel like a colossal asshole, so I kind of gravitate in and out of even using this. That said, I have jotted down a few notes that are in the repo.
 
 ## [Waxhead Revisited](https://github.com/stuartpb/waxhead-revisited)
 
@@ -173,6 +225,14 @@ A collection of insights(?) about the game [Secret Hitler](http://secrethitler.c
 Two questions posed, one of which is (almost) answered.
 
 Honestly, if I don't end up just deleting this, I kind of want to move this to a different org where I'd collect different Secret-Hitler-player-community projects: I'm kind of concerned with the way that there's a repo attached to my GitHub account with Hitler in the name, as well as [a repo on GitBook about Hitler](https://www.gitbook.com/book/stuartpb/how-you-end-up-with-hitler/details) (that I started writing after realizing that the *Cards Against Humanity* guy knows more about an extremely important part of history than I do).
+
+## [Mad Max Tarot Design](https://github.com/stuartpb/mad-max-tarot-design)
+
+For some reason, the idea of doing a set of tarot cards for the first three Mad Max movies excites me, as well as a set of cards for the game. Other people've done ones just for Fury Road, and it's missing some of the *best material in the series*! (Thunderdome has a *literal Wheel of Fortune*, FFS!) I *can't* overlook that.
+
+### Progress
+
+I made a workspace for this, and I think there's some cool stuff in that workspace, but I haven't committed or pushed it yet, maybe because the idea of dedicating a bunch of time to *that* when I'm ignoring *all the other stuff on this page* is just too much to bear.
 
 ## [date-rosetta](https://github.com/stuartpb/date-rosetta)
 
