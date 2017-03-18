@@ -232,7 +232,7 @@ For some reason, the idea of doing a set of tarot cards for the first three Mad 
 
 ### Progress
 
-I made a workspace for this, and I think there's some cool stuff in that workspace, but I haven't committed or pushed it yet, maybe because the idea of dedicating a bunch of time to *that* when I'm ignoring *all the other stuff on this page* is just too much to bear.
+I have *bare* descriptions committed for each card, but I only have *good* descriptions for a couple. Still, that's more than half the repos on this page have, and that's kind of embarrassing.
 
 ## [date-rosetta](https://github.com/stuartpb/date-rosetta)
 
