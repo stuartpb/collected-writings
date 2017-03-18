@@ -104,7 +104,7 @@ These are sort of like [The Daily WTF's Feature Articles](http://thedailywtf.com
 
 ### Progress
 
-I've proposed a few scenarios in this vein in Slack, but I've yet to actually write any of them up.
+I've proposed a few scenarios in this vein in Slack, but I've yet to actually write any of them up. I just added *half* a story I'd wrtten a while back and had yet to commit, but it really isn't all that great without all the rest of the scenes in-between.
 
 ## [Primer Prime](https://github.com/stuartpb/primerprime)
 
@@ -142,7 +142,7 @@ A guide to using CouchDB (and other compatible systems like PouchDB) that skips 
 
 There's actually a few pages written toward this, enough to accomplish the mission statement (though more work on stuff like examples and techniques wouldn't hurt). I think I actually had somebody acknowledge that I wrote this via Twitter at one point, which is quite the milestone for me.
 
-## [Guillibot](https://github.com/stuartpb/gullibot)
+## [Gullibot](https://github.com/stuartpb/gullibot)
 
 The rules to a story game about a robot that believes everything it hears, where each player takes turns "evaluating" the Laws of the Universe the robot has collected, similar to *[Everyone Is John](http://jesterraiin.dropmark.com/167650/2976489)*, or the brainlike organ that operates Donald Trump.
 
