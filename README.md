@@ -144,11 +144,11 @@ There's actually a few pages written toward this, enough to accomplish the missi
 
 ## [Gullibot](https://github.com/stuartpb/gullibot)
 
-The rules to a story game about a robot that believes everything it hears, where each player takes turns "evaluating" the Laws of the Universe the robot has collected, similar to *[Everyone Is John](http://jesterraiin.dropmark.com/167650/2976489)*, or the brainlike organ that operates Donald Trump.
+The rules to a story game about a robot that believes everything it hears, where each player takes turns "evaluating" the Laws of the Universe the robot has collected, similar to *[My Daughter the Queen of France](http://www.lamemage.com/friends/My_Daughter_The_Queen_of_France.pdf)*, *[Everyone Is John](http://jesterraiin.dropmark.com/167650/2976489)*, or the brainlike organ that operates Donald Trump.
 
 ### Progress
 
-I have the general concept and gags that the game revolves around settled, but I haven't really stitched them together into a compelling set of mechanics - and I haven't committed or pushed *anything* yet.
+I have the general concept and gags that the game revolves around settled, but the mechanics are kind of up in the air right now, and haven't been playtested to make sure they're sensible, compelling, and orthogonal.
 
 ## [The Chatroom of Requirement](https://github.com/stuartpb/chatroom-of-requirement)
 
