@@ -94,7 +94,7 @@ So, the other day in Slack, I made this joke about how this metaphor I just desc
 
 ### Progress
 
-I'm looking to gether those bits and pieces into something in a repo now.
+I'm looking to gather those bits and pieces into something in a repo now.
 
 ## [Valley of Lost Careers](https://github.com/stuartpb/valley-of-lost-careers)
 
