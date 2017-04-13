@@ -72,6 +72,14 @@ Where I'm going to put all the stuff I've been wanting to say about security and
 
 Literally just initialized the repo right now as I'm typing this.
 
+## [Selling to Help](https://github.com/stuartpb/selling-to-help)
+
+A bwhatever (book? booklet? blog? blurb?) on my philosophy of helping people to know what you can do for them, and what they can do for themselves. Includes all the wrestling and grappling I do with in balancing and reconciling the needs of our individual circumstances, our need to survive in the broader capitalist dystopia we're all stuck in, and the greater human condition that fundamentally connects us all.
+
+### Progress
+
+Just initialized the repo. It's 4:40 AM at a trade show, and I just wanted to stick a pin in this idea that I should write these thoughts down so they can quiet themselves for a bit at the prospect of getting out of my head and I can get some sleep. In many ways, this is the most important stuff for me to write down, for my own clarity foremost.
+
 ## [Nerd First: How and Why to Build Your Thing Around the Ones Who Will Geek Out Over It](https://github.com/stuartpb/nerd-first)
 
 This is where I want to put together my whole philosophy of what *actually matters* when you're making a thing, and how that will lead to success. Notable right now as the location where I've publically posted :family: = :eyes:(:zap::monkey:)² + :ear:(:lips:) - :hankey:, which is basically my seven-emoji substitute for reading The Tipping Point.
