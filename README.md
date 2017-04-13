@@ -58,7 +58,7 @@ Not yet started.
 
 ## [stuartpb/how-i-roll](https://github.com/stuartpb/how-i-roll)
 
-Another attempt to document my normal approach to accomplishing stuff, this time just gathering all that kind of stuff together in general. Notably, contains [a pretty robust synopsis on how I ended up with all these text-only repositories in various states of incompletion](https://github.com/stuartpb/how-i-roll/blob/master/writing.md), in which I note that I would probably end up eventually putting together what I'm typing right now.
+Another attempt to document my normal approach to accomplishing stuff, this time just gathering all that kind of stuff together in general. Notably, contains [a pretty robust synopsis on how I ended up with all these text-only repositories in various states of incompletion](https://github.com/stuartpb/how-i-roll/blob/master/writing.md), which is where I had [my first real inkling of putting together a collection of writing-repos like this](https://github.com/stuartpb/how-i-roll/commit/1a5d35abce6dba87bbcbd0e705aa710468149ddb).
 
 ### Progress
 
