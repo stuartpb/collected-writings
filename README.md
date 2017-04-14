@@ -18,24 +18,6 @@ Assorted quips and mini-essays on various topics relating to best practices etc.
 
 I've set this up, but I'm not writing to it on a regular basis yet.
 
-## [barfspace](https://github.com/stuartpb/barfspace)
-
-I'm constantly trying to find space to incubate things I want to say; this was the goal of the above "meditations" repo, initially, but I still had *some* standards and aims around what I did and didn't feel comfortable putting in that repo.
-
-It led to a lot of tension; where I initially was putting well-considered passages that well expressed a single idea on its own for each file, the writing started getting more personal, and hairier - the writing was supposed to be the *result of* meditations, but I started using the *writing itself* to work out things, meaning that I was just writing *way* too much stuff, and, well, see the introduction to this README about how I don't like the idea of blog posts.
-
-Basically, I was starting to write blog posts, and that made me uncomfortable. I don't like having persistent uncomitted files in a Cloud9 workspace, as I intend to treat C9 workspaces like cattle and not pets - ready to blow any of them away at a moment's notice.
-
-In response, I started this project, where I would break that rule: I'd *only* keep posts in the Cloud9 workspace, and *never* commit files to the repository itself. This way, I at least have *somewhere* to put, in theory, *everything* (or, at least, everything that won't fit on Twitter).
-
-### Progress
-
-The open-ended nature of the barfspace project makes "progress" a bit of a nebulous concept; instead of talking about the *content*, I can talk about my progress in developing a *workflow* in publishing it.
-
-At time of writing (about half an hour out from creating the repo), I've struck on a precarious, but workable solution, and there are the beginnings of some thoughts on how it could be made a bit more robust.
-
-So far, it looks like I'm already going to *break my rule about breaking rules* - instead of *never* comitting files in this repo, I'm going to *constantly* commit files in the repo - but, ultimately, it has the same effect, as the real goal of this was to make it so there's no pressure / friction around making *commit-sized contributions*.
-
 ## Miscellaneous Assorted Specifications and Proposals
 
 Maybe there should be a repo just for collecting these:
@@ -76,11 +58,32 @@ Not yet started.
 
 ## [stuartpb/how-i-roll](https://github.com/stuartpb/how-i-roll)
 
-Another attempt to document my normal approach to accomplishing stuff, this time just gathering all that kind of stuff together in general. Notably, contains [a pretty robust synopsis on how I ended up with all these text-only repositories in various states of incompletion](https://github.com/stuartpb/how-i-roll/blob/master/writing.md), which is where I had [my first real inkling of putting together a collection of writing-repos like this](https://github.com/stuartpb/how-i-roll/commit/1a5d35abce6dba87bbcbd0e705aa710468149ddb).
+Another attempt to document my normal approach to accomplishing stuff, this time just gathering all that kind of stuff together in general. Notably, contains [a pretty robust synopsis on how I ended up with all these text-only repositories in various states of incompletion][how-i-roll/writing.md], which is where I had [my first real inkling of putting together a collection of writing-repos like this](https://github.com/stuartpb/how-i-roll/commit/1a5d35abce6dba87bbcbd0e705aa710468149ddb).
+
+[how-i-roll/writing.md]: https://github.com/stuartpb/how-i-roll/blob/master/writing.md
 
 ### Progress
 
 Doesn't really contain a lot _more_ than that aforementioned synopsis.
+
+## [barfspace](https://github.com/stuartpb/barfspace)
+
+As described in [how-i-roll/writing.md][], I'm constantly trying to find space to incubate things I want to say; this was the goal of the above "meditations" repo, initially, but I still had *some* standards and aims around what I did and didn't feel comfortable putting in that repo.
+
+It led to a lot of tension; where I initially was putting well-considered passages that well expressed a single idea on its own for each file, the writing started getting more personal, and hairier - the writing was supposed to be the *result of* meditations, but I started using the *writing itself* to work out things, meaning that I was just writing *way* too much stuff, and, well, see [the introduction to the aforementioned synopsis on my writing][how-i-roll/writing.md] about how I don't like the idea of blog posts.
+
+Basically, I was starting to write blog posts, and that made me uncomfortable. I don't like having persistent uncomitted files in a Cloud9 workspace, as I intend to treat C9 workspaces like cattle and not pets - ready to blow any of them away at a moment's notice.
+
+In response, I started this project, where I would break that rule: I'd *only* keep posts in the Cloud9 workspace, and *never* commit files to the repository itself. This way, I at least have *somewhere* to put, in theory, *everything* (or, at least, everything that won't fit on Twitter).
+
+### Progress
+
+The open-ended nature of the barfspace project makes "progress" a bit of a nebulous concept; instead of talking about the *content*, I can talk about my progress in developing a *workflow* in publishing it.
+
+At time of writing (about half an hour out from creating the repo), I've struck on a precarious, but workable solution, and there are the beginnings of some thoughts on how it could be made a bit more robust.
+
+So far, it looks like I'm already going to *break my rule about breaking rules* - instead of *never* comitting files in this repo, I'm going to *constantly* commit files in the repo - but, ultimately, it has the same effect, as the real goal of this was to make it so there's no pressure / friction around making *commit-sized contributions*.
+
 
 ## [stuartpb on Security](https://github.com/stuartpb/stuartpb-on-security)
 
