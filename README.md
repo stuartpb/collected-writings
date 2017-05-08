@@ -66,6 +66,14 @@ Another attempt to document my normal approach to accomplishing stuff, this time
 
 Doesn't really contain a lot _more_ than that aforementioned synopsis.
 
+## [petlogs](https://github.com/stuartpb/petlogs)
+
+Journals of the customizations I've made to every persistent machine I use, so I can track down what changes might have screwed something else up, and so I can selectively re-make those changes if I have to re-roll the system.
+
+### Progress
+
+I've posted the merged repository of all the different gists that originally encapsulated each log. The next thing I want to do is make some command line tools that make it easier to push new log entries.
+
 ## [barfspace](https://github.com/stuartpb/barfspace)
 
 As described in [how-i-roll/writing.md][], I'm constantly trying to find space to incubate things I want to say; this was the goal of the above "meditations" repo, initially, but I still had *some* standards and aims around what I did and didn't feel comfortable putting in that repo.
@@ -209,14 +217,6 @@ Basically just a writeup of the system of bins, labels, and shelves I use to sto
 ### Progress
 
 I've written nothing on the subject (the biggest material contribution so far has been that title). Jeez, you'd think I could at least commit the label templates.
-
-## [petlogs](https://github.com/stuartpb/petlogs)
-
-Journals of the customizations I've made to every persistent machine I use, so I can track down what changes might have screwed something else up, and so I can selectively re-make those changes if I have to re-roll the system.
-
-### Progress
-
-I've posted the merged repository of all the different gists that originally encapsulated each log. The next thing I want to do is make some command line tools that make it easier to push new log entries.
 
 ## [opws-testaccounts](https://github.com/stuartpb/opws-testaccounts)
 
