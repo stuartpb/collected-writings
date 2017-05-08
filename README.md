@@ -84,7 +84,6 @@ At time of writing (about half an hour out from creating the repo), I've struck 
 
 So far, it looks like I'm already going to *break my rule about breaking rules* - instead of *never* comitting files in this repo, I'm going to *constantly* commit files in the repo - but, ultimately, it has the same effect, as the real goal of this was to make it so there's no pressure / friction around making *commit-sized contributions*.
 
-
 ## [stuartpb on Security](https://github.com/stuartpb/stuartpb-on-security)
 
 Where I'm going to put all the stuff I've been wanting to say about security and auth systems design for years, but have been to scared to say (because it's mostly just co-opting the tone of everybody else who writes in the infosec space, with zero practical/firsthand experience or evidence to back it up).
@@ -217,7 +216,7 @@ Journals of the customizations I've made to every persistent machine I use, so I
 
 ### Progress
 
-I haven't even *created the repo* yet - I've done a bunch of these in the form of gists, but I haven't merged them into a single repository yet.
+I've posted the merged repository of all the different gists that originally encapsulated each log. The next thing I want to do is make some command line tools that make it easier to push new log entries.
 
 ## [opws-testaccounts](https://github.com/stuartpb/opws-testaccounts)
 
