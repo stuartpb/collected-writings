@@ -94,11 +94,11 @@ So far, it looks like I'm already going to *break my rule about breaking rules* 
 
 ## [Pitches and Scripts](https://github.com/stuartpb/pitches-and-scripts)
 
-So, the other day in Slack, I made this joke about how this metaphor I just described would work well as a gag on Silicon Valley, and then Dan Hiester started talking about how that's how Ronald D. Moore got started as a writer for *Star Trek: The Next Generation*, and I've kind of been saving up bits and pieces of spec scripts for years under the assumption that nobody'd want to read them, and so...
+This is a repo where I'm collecting my pitches for stuff I'd want to write for TV and film (and the stage, but that's kind of a one-off). The circumstantial description I originally had here around the repo's inception has been moved to the body of the README in that repo itself.
 
 ### Progress
 
-I'm looking to gather those bits and pieces into something in a repo now.
+I've got a few paragraphs on a few different TV pitches I've had in mind, and a couple lines gesturing at a couple movie ideas I've had.
 
 ## [stuartpb on Security](https://github.com/stuartpb/stuartpb-on-security)
 
