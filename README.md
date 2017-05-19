@@ -92,6 +92,14 @@ At time of writing (about half an hour out from creating the repo), I've struck 
 
 So far, it looks like I'm already going to *break my rule about breaking rules* - instead of *never* comitting files in this repo, I'm going to *constantly* commit files in the repo - but, ultimately, it has the same effect, as the real goal of this was to make it so there's no pressure / friction around making *commit-sized contributions*.
 
+## [Pitches and Scripts](https://github.com/stuartpb/pitches-and-scripts)
+
+So, the other day in Slack, I made this joke about how this metaphor I just described would work well as a gag on Silicon Valley, and then Dan Hiester started talking about how that's how Ronald D. Moore got started as a writer for *Star Trek: The Next Generation*, and I've kind of been saving up bits and pieces of spec scripts for years under the assumption that nobody'd want to read them, and so...
+
+### Progress
+
+I'm looking to gather those bits and pieces into something in a repo now.
+
 ## [stuartpb on Security](https://github.com/stuartpb/stuartpb-on-security)
 
 Where I'm going to put all the stuff I've been wanting to say about security and auth systems design for years, but have been to scared to say (because it's mostly just co-opting the tone of everybody else who writes in the infosec space, with zero practical/firsthand experience or evidence to back it up).
@@ -123,14 +131,6 @@ This is another topic (or collection of topics) I feel like I have a lot to writ
 ### Progress
 
 *Undesign* is unwritten.
-
-## [TV Spec Scripts](https://github.com/stuartpb/tv-specscripts)
-
-So, the other day in Slack, I made this joke about how this metaphor I just described would work well as a gag on Silicon Valley, and then Dan Hiester started talking about how that's how Ronald D. Moore got started as a writer for *Star Trek: The Next Generation*, and I've kind of been saving up bits and pieces of spec scripts for years under the assumption that nobody'd want to read them, and so...
-
-### Progress
-
-I'm looking to gather those bits and pieces into something in a repo now.
 
 ## [Valley of Lost Careers](https://github.com/stuartpb/valley-of-lost-careers)
 
