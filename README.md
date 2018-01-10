@@ -2,6 +2,16 @@
 
 On GitHub, in no particularly well-chosen order:
 
+## [stuartpb.plan](https://github.com/stuartpb/stuartpb.plan)
+
+A document in the tradition of [plan files](http://www.catb.org/jargon/html/P/plan-file.html), where I describe describes what I'm currently up to at a glance.
+
+## Status
+
+The beautiful thing about this, as described in the README there, is that there's no notion of "progress" as there is with all these other projects, as I'm constantly just updating the same brief document to reflect my current situation.
+
+What's yet to be seen, as of the second week of January 2018, is if I'm going to stick with it.
+
 ## [github.com/stuartpb/help-wanted](https://github.com/stuartpb/help-wanted)
 
 A list of unfinished projects (not including writing projects, which are listed here), which I'd like somebody (anybody) to work with me toward completing (or at least getting to somewhere reasonably stable and useful).
@@ -131,6 +141,22 @@ This is another topic (or collection of topics) I feel like I have a lot to writ
 ### Progress
 
 *Undesign* is unwritten.
+
+## [Everybody Gets A Factory: What It Takes to Make Pretty Much Everything](https://github.com/stuartpb/everybody-gets-a-factory)
+
+This is basically a little place where I want to lay out my current understanding of the state of the art in personal fabrication, and what it'd take to advance it (both technologically and politically).
+
+### Progress
+
+I've written a couple paragraphs of introduction, but [all the *practical* topics are just tracked in issues right now](https://github.com/stuartpb/everybody-gets-a-factory/issues).
+
+## [safer-methodology](https://github.com/stuartpb/safer-methodology)
+
+Motivated by my frustrations finding 3D printable designs, but also inspired by my approach to software stuff, I'm trying to boil the criteria that drive my philosophy down to some kinf of rubric.
+
+### Progress
+
+There's some stuff in there, but it's really rough, as it's yet another thing I threw together in the wee hours of the morning when I should have been sleeping (a lot like the circumstances around when I created the repo for *Selling to Help* above).
 
 ## [Valley of Lost Careers](https://github.com/stuartpb/valley-of-lost-careers)
 
