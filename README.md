@@ -194,7 +194,9 @@ A wiki collecting all the vastly-different-approaches to solving problems in gra
 
 ### Progress
 
-I've had a tab open for a few days where I've been typing up a list of a few topics for the index page.
+I had a tab open for a few days where I had been typing up a list of a few topics for the index page: that tab was inadvertently closed for some reason that I don't remember, around which time I lost interest in writing this.
+
+I've forgotten most of the things I was going to write here, but I've filed issues for [the one or two that I remember right now](https://github.com/stuartpb/threejs-ways-to-do-it/issues), and will add more if they ever come back to me.
 
 ## [CouchDB in a Hurry](https://github.com/stuartpb/couchdb-in-a-hurry)
 
