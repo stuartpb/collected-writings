@@ -64,7 +64,7 @@ Supposed to be exactly what it says on the tin: basically a synopsis of the proc
 
 ### Progress
 
-Not yet started.
+I spent a lot of time with this repo completely empty, but after taking a second to just list a few of the things I *would* write about and realizing that one of the best practices that I would document is [using GitHub Issues to track any planned development](https://github.com/stuartpb/github-best-practices/issues/1), I went back and filed issues for *each of those things I would write about*, so now I've at least got the beginnings of *something*.
 
 ## [stuartpb/how-i-roll](https://github.com/stuartpb/how-i-roll)
 
