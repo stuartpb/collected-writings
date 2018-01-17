@@ -6,7 +6,7 @@ On GitHub, in no particularly well-chosen order:
 
 A document in the tradition of [plan files](http://www.catb.org/jargon/html/P/plan-file.html), where I describe describes what I'm currently up to at a glance.
 
-## Status
+### Status
 
 The beautiful thing about this, as described in the README there, is that there's no notion of "progress" as there is with all these other projects, as I'm constantly just updating the same brief document to reflect my current situation.
 
