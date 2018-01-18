@@ -150,13 +150,13 @@ This is basically a little place where I want to lay out my current understandin
 
 I've written a couple paragraphs of introduction, but [all the *practical* topics are just tracked in issues right now](https://github.com/stuartpb/everybody-gets-a-factory/issues).
 
-## [safer-methodology](https://github.com/stuartpb/safer-methodology)
+## [The SACRED Tenets of Foundational Architecture](https://github.com/stuartpb/sacred-tenets)
 
-Motivated by my frustrations finding 3D printable designs, but also inspired by my approach to software stuff, I'm trying to boil the criteria that drive my philosophy down to some kinf of rubric.
+Motivated by my frustrations finding 3D printable designs, but also inspired by my approach to software stuff, I'm trying to boil the criteria that drive my general approach to design down to some kind of rubric.
 
 ### Progress
 
-There's some stuff in there, but it's really rough, as it's yet another thing I threw together in the wee hours of the morning when I should have been sleeping (a lot like the circumstances around when I created the repo for *Selling to Help* above).
+I've refined the acronym to something I'm happy with, and polished up a few elucidatory notes on each tenet; the document is still not as comprehensive as I'd like it to be. I want to have something that, without fail, people who come up to it will walk away with their priorities forever changed.
 
 ## [Valley of Lost Careers](https://github.com/stuartpb/valley-of-lost-careers)
 
