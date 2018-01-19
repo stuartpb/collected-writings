@@ -10,7 +10,7 @@ A document in the tradition of [plan files](http://www.catb.org/jargon/html/P/pl
 
 The beautiful thing about this, as described in the README there, is that there's no notion of "progress" as there is with all these other projects, as I'm constantly just updating the same brief document to reflect my current situation.
 
-What's yet to be seen, as of the second week of January 2018, is if I'm going to stick with it.
+As of 2018-01-19, it's been a couple weeks, and I'm still sticking with it: I'll probably keep updating this "Status" section as my continued usage of it develops.
 
 ## [github.com/stuartpb/help-wanted](https://github.com/stuartpb/help-wanted)
 
@@ -18,7 +18,9 @@ A list of unfinished projects (not including writing projects, which are listed 
 
 ### Progress
 
-[Incomplete](https://github.com/stuartpb/help-wanted/issues/1), though the selection that's covered so far is a pretty fair sampling (probably the projects I'd like most to share, that I've also put some effort toward).
+This never ended up catching on: I've got a new idea which I'm currently readying in https://github.com/unusualstudio/unusualstudio-projects.
+
+That said, for the projects that it describes, this document is generally the best reference for explaining what the project is in about a paragraph, and describing the current status of that project. As I deprecate it, I'm going to look toward migrating such content somewhere within each project (where the project files in unusualstudio-projects will then link to, instead of the subsections of that document, as they do now).
 
 ## [github.com/stuartpb/meditations](https://github.com/stuartpb/meditations)
 
@@ -66,7 +68,7 @@ A guide to using GitHub right, starting from the position of the one thing I alw
 
 I spent a lot of time with this repo completely empty. I was originally calling this "Best Practices for Software Development on GitHub", thinking that I'd write "basically a synopsis of the process I've followed for all those projects listed in stuartpb/help-wanted", seemingly forgetting that I already have both stuartpb/how-i-roll *and* Lean Notes for this.
 
-On top of that, I have things to say on the *periphery* of development with GitHub, but the *core* of what matters is something I think is covered well enough by articles like the existing [GitHub Guides][]. (Many of the things I'd have to say would be starting from a place of assuming the reader already [understands the GitHub Flow][flow].
+On top of that, I have things to say on the *periphery* of development with GitHub, but the *core* of what matters is something I think is covered well enough by articles like the existing [GitHub Guides][]. (Many of the things I'd have to say would be starting from a place of assuming the reader already [understands the GitHub Flow][flow].)
 
 [GitHub Guides]: https://guides.github.com/
 [flow]: https://guides.github.com/introduction/flow/
@@ -81,7 +83,7 @@ Another attempt to document my normal approach to accomplishing stuff, this time
 
 ### Progress
 
-Doesn't really contain a lot _more_ than that aforementioned synopsis.
+I've got a few documents in there: I don't generally feel the impulse to contribute to this repository, as I have a lot of other projects where I write about what I do (such as Lean Notes, which is linked to in the README for that, but not yet listed here).
 
 ## [petlogs](https://github.com/stuartpb/petlogs)
 
@@ -105,9 +107,11 @@ In response, I started this project, where I would break that rule: I'd *only* k
 
 The open-ended nature of the barfspace project makes "progress" a bit of a nebulous concept; instead of talking about the *content*, I can talk about my progress in developing a *workflow* in publishing it.
 
-At time of writing (about half an hour out from creating the repo), I've struck on a precarious, but workable solution, and there are the beginnings of some thoughts on how it could be made a bit more robust.
+I let this repo languish for nearly a year after I first created it (I came back the next day to create an autocommitting script, wrote a little bit about how weird writing without clear commit boundaries was, then basically wrote the project off as a novelty), in part because I didn't have [git-slum][] to summarize the commits, and I knew it could be done: after finally writing the code for git-slum in November 2017, I came back to barfspace a couple months later to integrate it, and now I'm using it again.
 
-So far, it looks like I'm already going to *break my rule about breaking rules* - instead of *never* comitting files in this repo, I'm going to *constantly* commit files in the repo - but, ultimately, it has the same effect, as the real goal of this was to make it so there's no pressure / friction around making *commit-sized contributions*.
+There are better musings in the repository itself on its current status: you should probably look there (at time of writing, the introspective docs are in the `docs` directory).
+
+[git-slum]: https://github.com/stuartpb/git-slum
 
 ## [Pitches and Scripts](https://github.com/stuartpb/pitches-and-scripts)
 
@@ -278,16 +282,6 @@ A gonzo walkthrough for cheesy 90s FMV point-and-click adventure game [Are You A
 ### Progress
 
 2spoopy4me
-
-## [Secret Hitler FAQ](https://github.com/stuartpb/secret-hitler-faq)
-
-A collection of insights(?) about the game [Secret Hitler](http://secrethitler.com/).
-
-### Progress
-
-Two questions posed, one of which is (almost) answered.
-
-Honestly, if I don't end up just deleting this, I kind of want to move this to a different org where I'd collect different Secret-Hitler-player-community projects: I'm kind of concerned with the way that there's a repo attached to my GitHub account with Hitler in the name, as well as [a repo on GitBook about Hitler](https://www.gitbook.com/book/stuartpb/how-you-end-up-with-hitler/details) (that I started writing after realizing that the *Cards Against Humanity* guy knows more about an extremely important part of history than I do).
 
 ## [Mad Max Tarot Design](https://github.com/stuartpb/mad-max-tarot-design)
 
