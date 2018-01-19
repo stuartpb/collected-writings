@@ -58,13 +58,20 @@ I put this forward in the service of a [flexible, interoperable standard for the
 
 A dumb idea for an instantiable, pre-minified version of the DOM's long method names. I basically just wrote this as a thought experiment, and to satisfy my yearning for somebody, *somewhere*, at *some point*, to have noted aloud that it would maybe be nice if `document.getElementById` were shorter.
 
-## [Best Practices for Software Development on GitHub](https://github.com/stuartpb/github-best-practices)
+## [The Biggest Mistakes I See People Make on GitHub](https://github.com/stuartpb/github-mistakes)
 
-Supposed to be exactly what it says on the tin: basically a synopsis of the process I've followed for all those projects listed in stuartpb/help-wanted.
+A guide to using GitHub right, starting from the position of the one thing I always know how to talk about: people doing things *wrong*.
 
 ### Progress
 
-I spent a lot of time with this repo completely empty, but after taking a second to just list a few of the things I *would* write about and realizing that one of the best practices that I would document is [using GitHub Issues to track any planned development](https://github.com/stuartpb/github-best-practices/issues/1), I went back and filed issues for *each of those things I would write about*, so now I've at least got the beginnings of *something*.
+I spent a lot of time with this repo completely empty. I was originally calling this "Best Practices for Software Development on GitHub", thinking that I'd write "basically a synopsis of the process I've followed for all those projects listed in stuartpb/help-wanted", seemingly forgetting that I already have both stuartpb/how-i-roll *and* Lean Notes for this.
+
+On top of that, I have things to say on the *periphery* of development with GitHub, but the *core* of what matters is something I think is covered well enough by articles like the existing [GitHub Guides][]. (Many of the things I'd have to say would be starting from a place of assuming the reader already [understands the GitHub Flow][flow].
+
+[GitHub Guides]: https://guides.github.com/
+[flow]: https://guides.github.com/introduction/flow/
+
+However, when I started putting together stuartpb.plan (described above), I had the thought that [I should really fill in one of the things I most wanted to talk about](https://github.com/stuartpb/stuartpb.plan/commit/5d844af92395333b4eb2beb02900ac5c5083fd5d), which led to me revisiting the project and filing issues for a few things I *would* be able to write about. *That* led to me revisiting the project again later, after re-discovering the GitHub Flow guide, thinking about what I'd be *adding* to that, and reframing the project in that light. From there, several sections started to easily fall into place.
 
 ## [stuartpb/how-i-roll](https://github.com/stuartpb/how-i-roll)
 
