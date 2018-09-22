@@ -1,4 +1,4 @@
-# The Collected (Un)written Works of Stuart P. Bentley
+# The Collected (Mostly) Written Works of Stuart P. Bentley
 
 On GitHub, in no particularly well-chosen order:
 
@@ -10,7 +10,7 @@ A document in the tradition of [plan files](http://www.catb.org/jargon/html/P/pl
 
 The beautiful thing about this, as described in the README there, is that there's no notion of "progress" as there is with all these other projects, as I'm constantly just updating the same brief document to reflect my current situation.
 
-As of 2018-01-19, it's been a couple weeks, and I'm still sticking with it: I'll probably keep updating this "Status" section as my continued usage of it develops.
+As of 2018-09-18, I'd stalled on this for months, because I hadn't been working on things I was happy to tell the world about: I'm getting back into the swing of things, so I'm probably going to start revisiting this again soon.
 
 ## [github.com/stuartpb/help-wanted](https://github.com/stuartpb/help-wanted)
 
@@ -22,13 +22,19 @@ This never ended up catching on: I've got a new idea which I'm currently readyin
 
 That said, for the projects that it describes, this document is generally the best reference for explaining what the project is in about a paragraph, and describing the current status of that project. As I deprecate it, I'm going to look toward migrating such content somewhere within each project (where the project files in unusualstudio-projects will then link to, instead of the subsections of that document, as they do now).
 
-## [github.com/stuartpb/meditations](https://github.com/stuartpb/meditations)
+## [Lean Notes](https://github.com/stuartpb/leannotes)
 
-Assorted quips and mini-essays on various topics relating to best practices etc. Originally assembled as a set of guidelines on writing specifications and standards, but pivoted into a collection of miscellaneous musings on general behavioral patterns.
+This is an umbrella project to cover all my documentation on how I approach developing other projects. It originally started as a series of Trello boards, plus a number of GitHub repositories I'd started (and, in a few cases, used) to gather more content I'd originally considered "out of scope" with the original project (which was originally meant to only cover web-service-style apps, for the most part).
+
+Many of the pages there contain synopses that were originally written *here*, to describe the aspirations of some of these abortive side-repositories that have now been merged into this project.
+
+Among the other merged-in content, one of the files that is now included within Lean Notes is [an obsolete synopsis of my writing process before many of my broad-scope incubator projects were established][how-i-roll/writing.md], the original incarnation of which having been where I had [my first real inkling of putting together a collection of writing-repos like this Collected Writings page](https://github.com/stuartpb/how-i-roll/commit/1a5d35abce6dba87bbcbd0e705aa710468149ddb).
+
+[how-i-roll/writing.md]: https://github.com/stuartpb/leannotes/blob/master/content/8801d68b-a815-4c92-b9af-503aa47b1848.md
 
 ### Progress
 
-I've set this up, but I'm not writing to it on a regular basis yet.
+As of 2018-09-21, I've just merged about a dozen other projects I had previously been writing in (or *not* writing in, as it were) to this repository: the plan going forward is that these projects will grow to feed and interconnect with each other, like a cluster of sunken boats forming a coral reef.
 
 ## Miscellaneous Assorted Specifications and Proposals
 
@@ -75,16 +81,6 @@ On top of that, I have things to say on the *periphery* of development with GitH
 
 However, when I started putting together stuartpb.plan (described above), I had the thought that [I should really fill in one of the things I most wanted to talk about](https://github.com/stuartpb/stuartpb.plan/commit/5d844af92395333b4eb2beb02900ac5c5083fd5d), which led to me revisiting the project and filing issues for a few things I *would* be able to write about. *That* led to me revisiting the project again later, after re-discovering the GitHub Flow guide, thinking about what I'd be *adding* to that, and reframing the project in that light. From there, several sections started to easily fall into place.
 
-## [stuartpb/how-i-roll](https://github.com/stuartpb/how-i-roll)
-
-Another attempt to document my normal approach to accomplishing stuff, this time just gathering all that kind of stuff together in general. Notably, contains [a pretty robust synopsis on how I ended up with all these text-only repositories in various states of incompletion][how-i-roll/writing.md], which is where I had [my first real inkling of putting together a collection of writing-repos like this](https://github.com/stuartpb/how-i-roll/commit/1a5d35abce6dba87bbcbd0e705aa710468149ddb).
-
-[how-i-roll/writing.md]: https://github.com/stuartpb/how-i-roll/blob/master/writing.md
-
-### Progress
-
-I've got a few documents in there: I don't generally feel the impulse to contribute to this repository, as I have a lot of other projects where I write about what I do (such as Lean Notes, which is linked to in the README for that, but not yet listed here).
-
 ## [petlogs](https://github.com/stuartpb/petlogs)
 
 Journals of the customizations I've made to every persistent machine I use, so I can track down what changes might have screwed something else up, and so I can selectively re-make those changes if I have to re-roll the system.
@@ -121,45 +117,6 @@ This is a repo where I'm collecting my pitches for stuff I'd want to write for T
 
 I've got a few paragraphs on a few different TV pitches I've had in mind, and a couple lines gesturing at a couple movie ideas I've had.
 
-## [stuartpb on Security](https://github.com/stuartpb/stuartpb-on-security)
-
-Where I'm going to put all the stuff I've been wanting to say about security and auth systems design for years, but have been to scared to say (because it's mostly just co-opting the tone of everybody else who writes in the infosec space, with zero practical/firsthand experience or evidence to back it up).
-
-### Progress
-
-Literally just initialized the repo right now as I'm typing this.
-
-## [Selling to Help](https://github.com/stuartpb/selling-to-help)
-
-A bwhatever (book? booklet? blog? blurb?) on my philosophy of helping people to know what you can do for them, and what they can do for themselves. Includes all the wrestling and grappling I do with in balancing and reconciling the needs of our individual circumstances, our need to survive in the broader capitalist dystopia we're all stuck in, and the greater human condition that fundamentally connects us all.
-
-### Progress
-
-Just initialized the repo. It's 4:40 AM at a trade show, and I just wanted to stick a pin in this idea that I should write these thoughts down so they can quiet themselves for a bit at the prospect of getting out of my head and I can get some sleep. In many ways, this is the most important stuff for me to write down, for my own clarity foremost.
-
-## [Nerd First: How and Why to Build Your Thing Around the Ones Who Will Geek Out Over It](https://github.com/stuartpb/nerd-first)
-
-This is where I want to put together my whole philosophy of what *actually matters* when you're making a thing, and how that will lead to success. Notable right now as the location where I've publically posted :family: = :eyes:(:zap::monkey:)² + :ear:(:lips:) - :hankey:, which is basically my seven-emoji substitute for reading The Tipping Point.
-
-### Progress
-
-Doesn't contain a *tenth* of the content I want it to have: given a generous publisher's advance, I could write *pages* and ***pages*** of examples of products that have (ostensibly) followed this principle to success ("How The AeroPress Taught Me Everything I Needed to Know To Strike It Big In Silicon Valley, Despite Not Actually Having Done So"), making my dumb little metaphor seem like a law of nature without having to provide a lick of empirically-validated evidence. (When I grow up, I wanna be a pundit, too.)
-
-## [Undesign: An exploration of Emergent Behaviors, Fractal Restrictions, and Discoverability](https://github.com/stuartpb/undesign)
-
-This is another topic (or collection of topics) I feel like I have a lot to write about: how communities form around features and bugs, how features get picked up without the users having to be told about them, stuff like that. If *Nerd First* is my version of *The Tipping Point* or *The Black Swan*, *Undesign* would be my *Blink* or *Antifragile*. (Actually, I should probably read *Antifragile*, especially considering how often I talk about it.)
-
-### Progress
-
-*Undesign* is unwritten.
-
-## [Everybody Gets A Factory: What It Takes to Make Pretty Much Everything](https://github.com/stuartpb/everybody-gets-a-factory)
-
-This is basically a little place where I want to lay out my current understanding of the state of the art in personal fabrication, and what it'd take to advance it (both technologically and politically).
-
-### Progress
-
-I've written a couple paragraphs of introduction, but [all the *practical* topics are just tracked in issues right now](https://github.com/stuartpb/everybody-gets-a-factory/issues).
 
 ## [The SACRED Tenets of Foundational Architecture](https://github.com/stuartpb/sacred-tenets)
 
@@ -178,26 +135,6 @@ These are sort of like [The Daily WTF's Feature Articles](http://thedailywtf.com
 ### Progress
 
 I've proposed a few scenarios in this vein in Slack, but I've yet to actually write any of them up. I just added *half* a story I'd wrtten a while back and had yet to commit, but it really isn't all that great without all the rest of the scenes in-between.
-
-## [Primer Prime](https://github.com/stuartpb/primerprime)
-
-This is, essentially, *the* history of computing that I want to write: one that covers all the little quirks that led to the world you *actually have to deal with* to work in technology today (the answers to most questions people have being "because that's what Ken Thompson needed to write Unix on his computer at Bell Labs in the seventies").
-
-I'm going to sneak in a link to [this Rolling Stone article by Steward Brand that I painstakingly converted to HTML](https://github.com/stuartpb/spacewar-article), which taught me a lot about the state of the field in the early seventies, and is otherwise not easily available on the Web. I should *probably* ask the author for permission to rehost it at some point.
-
-### Progress
-
-So far, I've tried to write this from the beginning; as a result, I got about as far as 1890, and then I hit a roadblock since (the *really* interesting stuff doesn't happen for about seventy-five years.)
-
-At some point, I should just start copypasting everything I've ever written when answering questions that start with "Why does my computer", and then by the end of it I'd probably have half the book written.
-
-## [Homo Socialmediis: The Myth of the Magical Content Marketing](https://github.com/stuartpb/homo-socialmediis)
-
-Why and how we have this insane hype bubble around the dumbest forms of "social" "interaction" online, when the kind of possibilities that are *[actually worth getting excited about](http://www.cluetrain.com)* have yet to materialize.
-
-### Progress
-
-I have collected *mountains* of salt on this topic, which I am fully prepared to explode onto the page at the slightest provocation. If I get one more memo on a "sales strategy" that consists exclusively of sending unsolicited connection requests through LinkedIn, I'm probably going to knock out the first three chapters in one sitting.
 
 ## [At Least Three Ways to Do Anything in Three.js](https://github.com/stuartpb/threejs-ways-to-do-it)
 
