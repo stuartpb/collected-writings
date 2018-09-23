@@ -202,24 +202,6 @@ Logs of what I've done when testing account systems of a site for the [OPWS](htt
 
 Ironically, there *is* stuff in here, even though it's pretty much useless.
 
-## [stuartpb-exit-codes](https://github.com/stuartpb/stuartpb-exit-codes)
-
-Documentation for the standard reasons I'd exit a thread (read: conversation).
-
-You know that thing where someone's just being incredibly tedious and awful, so you just want to walk away? This is for that, except the idea is that you can drop a hyperlink to help them better understand *why* they're being tedious, and what they could do to *not* be tedious in the future.
-
-### Progress
-
-Honestly, as useful as having these in a single place would be, writing them - and then *citing* them - makes me feel like a colossal asshole, so I kind of gravitate in and out of even using this. That said, I have jotted down a few notes that are in the repo.
-
-## [Waxhead Revisited](https://github.com/stuartpb/waxhead-revisited)
-
-A gonzo walkthrough for cheesy 90s FMV point-and-click adventure game [Are You Afraid of the Dark? The Tale of Orpheo's Curse](http://orpheoscurse.wikia.com/wiki/The_Tale_of_Orpheo's_Curse), to give me an outlet for florid prose for when I'm feeling nostalgic and/and drunk.
-
-### Progress
-
-2spoopy4me
-
 ## [Mad Max Tarot Design](https://github.com/stuartpb/mad-max-tarot-design)
 
 For some reason, the idea of doing a set of tarot cards for the first three Mad Max movies excites me, as well as a set of cards for the game. Other people've done ones just for Fury Road, and it's missing some of the *best material in the series*! (Thunderdome has a *literal Wheel of Fortune*, FFS!) I *can't* overlook that.
@@ -235,13 +217,3 @@ A Rosetta Stone document for how different date formatting facilities specify da
 ### Progress
 
 I got all geared up to write this, then I felt like I should be writing it in code instead of a table (due to the vagaries and complexities of different date formatting specs), then I realized that I didn't care *that* much about date formatting. At time of writing, the document mostly lists several different date formatting libraries, then several different ways of formatting dates, and draws about three connections between the two.
-
-## [western-civilization-walkthrough](https://github.com/stuartpb/western-civilization-walkthrough)
-
-This is supposed to be a joke in the vein of the [GameFAQs walkthrough for Problem Sleuth](http://www.mspaintadventures.com/?s=4&p=000816) (maybe crossed with [this t-shirt](https://www.topatoco.com/bestshirtever/)), where it gives the "strategy" for "winning" at various points in human civilization. 90% of the "strategies" are basically "be born in the right place at the right time", and the rest is "commit atrocities on indigineous peoples for 9/10 of the game, then symbolically atone at the last minute so you can claim reparations are uncalled for".
-
-### Progress
-
-Yeah, since I just told you the punchline, why bother to write the joke?
-
-I think the point I was originally trying to make with this is that "ahead of its time" is a thing, and how, for instance, you wouldn't make it very far trying to be an oil tycoon in the 1700s. That said, if there's any real value to be had in this premise, I'm pretty sure I'm not going to be the one to find it.
